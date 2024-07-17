@@ -82,6 +82,8 @@ The Apple AirTag is an excellent choice for Apple users looking to keep track of
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Vehicle Rating](https://github.com/sourceduty/Vehicle_Rating)
+<br>
+[Business Rating](https://github.com/sourceduty/Business_Rating)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
